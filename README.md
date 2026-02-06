@@ -4,7 +4,7 @@
 **8ος Πανελλήνιος Διαγωνισμός Ανοιχτών Τεχνολογιών στην Εκπαίδευση**
 **Ομάδα:** Braille Builders | **Σχολείο:** Δημοτικό Σχολείο Υδρούσας
 
-![Λογότυπο Υδρούσας](https://github.com/samgeorg/braille-project-hydrousa/blob/main/LogoYdrousaWT_GR.png?raw=true)
+<img src="https://github.com/samgeorg/braille-project-hydrousa/blob/main/LogoYdrousaWT_GR.png?raw=true" width="300" alt="Λογότυπο Υδρούσας">
 
 ---
 
