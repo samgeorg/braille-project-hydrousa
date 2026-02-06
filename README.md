@@ -27,8 +27,7 @@
 * Κάθε συνδυασμός κουκκίδων αντιστοιχεί σε ένα γράμμα, αριθμό ή σύμβολο.
 * Διαβάζεται ψηλαφιστά με τα ακροδάχτυλα, από τα αριστερά προς τα δεξιά.
 
-![Braille Alphabet](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Braille_alphabet.svg/800px-Braille_alphabet.svg.png)
-*(Ο πίνακας του αλφαβήτου Braille)*
+<img src="https://github.com/samgeorg/braille-project-hydrousa/blob/main/elliniko-alfavito-braille.jpg?raw=true" width="300" alt="Ελληνικό Αλφάβητο Braille">
 
 ---
 
